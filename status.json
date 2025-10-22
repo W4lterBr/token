@@ -1,9 +1,0 @@
-{
-  "license_token": "BOOT-STRP-ABCD-1234",
-  "status": 4,
-  "valid_from": "2000-01-01T00:00:00+00:00",
-  "valid_until": "2099-12-31T23:59:59+00:00",
-  "note": "bootstrap",
-  "updated_by": "init",
-  "version": 1
-}
