@@ -1,9 +1,15 @@
 {
-  "license_token": "5FK7-MJ73-EPBJ-QFRQ",
-  "status": 1,
-  "valid_from": "2025-10-23T00:24:33.153674+00:00",
-  "valid_until": "2025-10-24T00:24:33.153674+00:00",
-  "note": "",
-  "updated_by": "pc1",
-  "version": 1
+  "clients": [
+    {
+      "cliente": "Confeitaria",
+      "license_token": "69UK-6FW5-XWZZ-3A48",
+      "status": 1,
+      "valid_from": "2025-10-24T12:50:18.059214+00:00",
+      "valid_until": "2025-10-25T12:50:18.059214+00:00",
+      "note": "",
+      "updated_by": "pc1",
+      "version": 1
+    }
+  ],
+  "updated_at": "2025-10-24T12:50:18.059214+00:00"
 }
