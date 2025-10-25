@@ -13,13 +13,13 @@
     {
       "cliente": "Cooperativa",
       "license_token": "EAT8-M8ES-BVMC-FEY2",
-      "status": 1,
-      "valid_from": "2025-10-24T17:01:47.496675+00:00",
-      "valid_until": "2025-10-25T17:01:47.496675+00:00",
+      "status": 2,
+      "valid_from": "2025-10-25T03:03:17.517136+00:00",
+      "valid_until": "2025-10-26T03:03:17.517136+00:00",
       "note": "",
       "updated_by": "pc1",
       "version": 1
     }
   ],
-  "updated_at": "2025-10-24T17:01:47.496675+00:00"
+  "updated_at": "2025-10-25T03:03:17.517136+00:00"
 }
