@@ -4,8 +4,8 @@
       "cliente": "Confeitaria",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
       "status": 1,
-      "valid_from": "2025-10-24T14:55:24.551655+00:00",
-      "valid_until": "2025-10-25T14:55:24.551655+00:00",
+      "valid_from": "2025-10-30T00:52:26.070394+00:00",
+      "valid_until": "2025-10-31T00:52:26.070394+00:00",
       "note": "",
       "updated_by": "pc1",
       "version": 1
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2025-10-30T00:45:02.505005+00:00"
+  "updated_at": "2025-10-30T00:52:26.070394+00:00"
 }
