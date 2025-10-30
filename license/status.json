@@ -3,9 +3,9 @@
     {
       "cliente": "Confeitaria",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
-      "status": 2,
-      "valid_from": "2025-10-30T01:06:03.027068+00:00",
-      "valid_until": "2025-11-07T09:06:03.027068+00:00",
+      "status": 1,
+      "valid_from": "2025-10-30T11:42:47.145363+00:00",
+      "valid_until": "2025-10-31T11:42:47.145363+00:00",
       "note": "Falta de Pagamento",
       "updated_by": "pc1",
       "version": 1
@@ -23,13 +23,13 @@
     {
       "cliente": "Confeitaria Versão 1.2.9",
       "license_token": "4N36-EX3N-2HEZ-H7BJ",
-      "status": 2,
-      "valid_from": "2025-10-30T01:06:00.511151+00:00",
-      "valid_until": "2025-11-07T09:06:00.511151+00:00",
+      "status": 1,
+      "valid_from": "2025-10-30T11:42:53.178792+00:00",
+      "valid_until": "2025-10-31T11:42:53.178792+00:00",
       "note": "Falta de Pagamento",
       "updated_by": "pc1",
       "version": 1
     }
   ],
-  "updated_at": "2025-10-30T01:06:03.027068+00:00"
+  "updated_at": "2025-10-30T11:42:53.178792+00:00"
 }
