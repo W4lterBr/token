@@ -3,9 +3,9 @@
     {
       "cliente": "Confeitaria",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
-      "status": 2,
-      "valid_from": "2025-10-30T12:39:59.728551+00:00",
-      "valid_until": "2025-11-24T12:39:59.728551+00:00",
+      "status": 3,
+      "valid_from": "2025-10-30T12:40:38.436877+00:00",
+      "valid_until": "2025-11-24T12:40:38.436877+00:00",
       "note": "Fatura em atraso.",
       "updated_by": "pc1",
       "version": 1
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2025-10-30T12:39:59.728551+00:00"
+  "updated_at": "2025-10-30T12:40:38.436877+00:00"
 }
