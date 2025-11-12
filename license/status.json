@@ -16,9 +16,9 @@
       "license_token": "EAT8-M8ES-BVMC-FEY2",
       "cliente": "Cooperativa",
       "valid_until": "2026-01-31T17:14:00.000Z",
-      "status": 1,
+      "status": 2,
       "valid_from": "2025-11-08T17:14:39.653909+00:00",
-      "note": "Em dia"
+      "note": ""
     },
     {
       "updated_by": "pc1",
@@ -31,5 +31,5 @@
       "note": "Falta de Pagamento"
     }
   ],
-  "updated_at": "2025-11-12T15:12:23.599413+00:00"
+  "updated_at": "2025-11-12T17:04:12.755553+00:00"
 }
