@@ -1,4 +1,35 @@
 {
-  "clients": [],
-  "updated_at": "2025-11-12T17:06:01.989536+00:00"
+  "clients": [
+    {
+      "cliente": "Confeitaria",
+      "license_token": "TYVC-7WE5-9ETH-HJGS",
+      "status": 1,
+      "valid_from": "2025-10-30T12:41:11.070086+00:00",
+      "valid_until": "2025-11-24T12:41:11.069086+00:00",
+      "note": "Fatura em atraso.",
+      "updated_by": "pc1",
+      "version": 1
+    },
+    {
+      "cliente": "Cooperativa",
+      "license_token": "EAT8-M8ES-BVMC-FEY2",
+      "status": 1,
+      "valid_from": "2025-10-30T00:57:22.966479+00:00",
+      "valid_until": "2025-11-07T08:57:22.966479+00:00",
+      "note": "",
+      "updated_by": "pc1",
+      "version": 1
+    },
+    {
+      "cliente": "Confeitaria Versão 1.2.9",
+      "license_token": "4N36-EX3N-2HEZ-H7BJ",
+      "status": 1,
+      "valid_from": "2025-10-30T11:42:53.178792+00:00",
+      "valid_until": "2025-10-31T11:42:53.178792+00:00",
+      "note": "Falta de Pagamento",
+      "updated_by": "pc1",
+      "version": 1
+    }
+  ],
+  "updated_at": "2025-10-30T12:41:11.070086+00:00"
 }
