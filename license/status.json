@@ -1,0 +1,13 @@
+{
+  "licenses": [
+    {
+      "token": "EAT8-M8ES-BVMC-FEY2",
+      "cliente": "Cooperativa Exemplo",
+      "status": 1,
+      "emitido_em": "2025-01-01T00:00:00Z",
+      "expira_em": "2026-12-31T23:59:59Z",
+      "max_users": 50,
+      "features": ["financeiro", "operacional", "nfse"]
+    }
+  ]
+}
