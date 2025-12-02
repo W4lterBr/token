@@ -4,7 +4,7 @@
       "cliente": "CONFEITARIA MARILIA ZYLBERSZTAJN",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
       "status": 2,
-      "valid_from": "2025-12-01T14:24:58.878101+00:00",
+      "valid_from": "2025-12-02T18:26:54.611433+00:00",
       "valid_until": "2025-12-15 00:00:00",
       "note": "",
       "updated_by": "pc1",
@@ -14,7 +14,7 @@
       "cliente": "APS CONSERVADORA",
       "license_token": "EAT8-M8ES-BVMC-FEY2",
       "status": 1,
-      "valid_from": "2025-12-01T14:24:58.877783+00:00",
+      "valid_from": "2025-12-02T18:26:54.611083+00:00",
       "valid_until": "2025-12-10T16:00:00.000Z",
       "note": "",
       "updated_by": "pc1",
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2025-12-01T14:24:58.878824+00:00"
+  "updated_at": "2025-12-02T18:26:54.611959+00:00"
 }
