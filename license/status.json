@@ -24,12 +24,12 @@
       "cliente": "Confeitaria Versão 1.2.9",
       "license_token": "4N36-EX3N-2HEZ-H7BJ",
       "status": 1,
-      "valid_from": "2025-10-30T11:42:53.178792+00:00",
-      "valid_until": "2025-10-31T11:42:53.178792+00:00",
-      "note": "Falta de Pagamento",
+      "valid_from": "2025-12-11T18:39:34.170074+00:00",
+      "valid_until": "2026-01-10T18:40:00.000Z",
+      "note": "",
       "updated_by": "pc1",
       "version": 1
     }
   ],
-  "updated_at": "2025-12-10T23:23:19.229281+00:00"
+  "updated_at": "2025-12-11T18:39:41.155488+00:00"
 }
