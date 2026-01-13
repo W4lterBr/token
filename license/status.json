@@ -14,9 +14,9 @@
       "cliente": "APS CONSERVADORA",
       "license_token": "EAT8-M8ES-BVMC-FEY2",
       "status": 1,
-      "valid_from": "2025-12-10T23:23:13.262954+00:00",
-      "valid_until": "2026-01-11T17:00:00.000Z",
-      "note": "",
+      "valid_from": "2026-01-13T23:09:46.196351+00:00",
+      "valid_until": "2026-02-15T23:09:00.000Z",
+      "note": "Liberado",
       "updated_by": "pc1",
       "version": 1
     },
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2025-12-11T18:39:41.155488+00:00"
+  "updated_at": "2026-01-13T23:09:50.437670+00:00"
 }
