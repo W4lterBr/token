@@ -11,11 +11,11 @@
       "version": 1
     },
     {
-      "cliente": "APS CONSERVADORA",
+      "cliente": "CONSERVADORA NEVES ALCANTARA LTDA",
       "license_token": "EAT8-M8ES-BVMC-FEY2",
-      "status": 1,
-      "valid_from": "2026-01-13T23:09:46.196351+00:00",
-      "valid_until": "2026-02-15T23:09:00.000Z",
+      "status": 2,
+      "valid_from": "2026-01-14T03:00:00.147040+00:00",
+      "valid_until": "2026-01-25 00:00:00",
       "note": "Liberado",
       "updated_by": "pc1",
       "version": 1
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2026-01-13T23:11:37.268427+00:00"
+  "updated_at": "2026-01-14T03:00:00.148654+00:00"
 }
