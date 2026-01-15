@@ -4,8 +4,8 @@
       "cliente": "CONFEITARIA MARILIA ZYLBERSZTAJN",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
       "status": 1,
-      "valid_from": "2026-01-15T20:42:41.203609+00:00",
-      "valid_until": "2026-03-31T12:00:00.000Z",
+      "valid_from": "2026-01-15T23:35:31.425012+00:00",
+      "valid_until": "2026-03-31T16:00:00.000Z",
       "note": "Liberado",
       "updated_by": "pc1",
       "version": 1
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2026-01-15T23:35:22.677657+00:00"
+  "updated_at": "2026-01-15T23:35:31.591458+00:00"
 }
