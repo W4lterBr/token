@@ -14,7 +14,7 @@
       "cliente": "CONSERVADORA NEVES ALCANTARA LTDA",
       "license_token": "EAT8-M8ES-BVMC-FEY2",
       "status": 2,
-      "valid_from": "2026-01-20T12:02:09.534358+00:00",
+      "valid_from": "2026-01-21T03:00:00.151419+00:00",
       "valid_until": "2026-01-25 00:00:00",
       "note": "liberado",
       "updated_by": "pc1",
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2026-01-20T12:02:09.556313+00:00"
+  "updated_at": "2026-01-21T03:00:00.151952+00:00"
 }
