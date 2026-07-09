@@ -23,13 +23,13 @@
     {
       "cliente": "Confeitaria Versão 1.2.9",
       "license_token": "4N36-EX3N-2HEZ-H7BJ",
-      "status": 1,
-      "valid_from": "2026-03-31T22:39:00.000Z",
-      "valid_until": "2026-03-31T22:40:00.000Z",
+      "status": 3,
+      "valid_from": "2026-04-01T02:39:00.000Z",
+      "valid_until": "2026-04-01T02:40:00.000Z",
       "note": "",
       "updated_by": "pc1",
       "version": 1
     }
   ],
-  "updated_at": "2026-07-09T23:32:17.425339+00:00"
+  "updated_at": "2026-07-09T23:32:34.950916+00:00"
 }
