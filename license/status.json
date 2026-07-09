@@ -3,9 +3,9 @@
     {
       "cliente": "MZ COMERCIO DE ALIMENTOS LTDA.",
       "license_token": "TYVC-7WE5-9ETH-HJGS",
-      "status": 1,
-      "valid_from": "2026-07-09T19:28:46.828231+00:00",
-      "valid_until": "2026-04-01T04:00:00.000Z",
+      "status": 3,
+      "valid_from": "2026-07-09T23:28:00.000Z",
+      "valid_until": "2026-04-01T08:00:00.000Z",
       "note": "Sistema Rescindido em 01-04-2026.",
       "updated_by": "pc1",
       "version": 1
@@ -31,5 +31,5 @@
       "version": 1
     }
   ],
-  "updated_at": "2026-07-09T23:32:35.850432+00:00"
+  "updated_at": "2026-07-09T23:32:47.592379+00:00"
 }
