@@ -1,0 +1,15 @@
+{
+  "clients": [
+    {
+      "cliente": "TESTE BUSCA NOTAS",
+      "license_token": "58CY-AWVM-BYXD-FRMM",
+      "status": 1,
+      "valid_from": "2026-07-09T19:29:09.689849+00:00",
+      "valid_until": "2026-08-08T19:29:09.689849+00:00",
+      "note": "",
+      "updated_by": "pc1",
+      "version": 1
+    }
+  ],
+  "updated_at": "2026-07-09T19:29:34.257941+00:00"
+}
