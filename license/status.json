@@ -34,12 +34,12 @@
       "cliente": "DWM Systems (Configurar)",
       "license_token": "RJHN-WRPE-MTJ6-B5VY",
       "status": 1,
-      "valid_from": "2026-07-10T14:10:22.382111+00:00",
-      "valid_until": "2026-08-09T14:10:22.382111+00:00",
+      "valid_from": "2026-07-10T14:10:00.000Z",
+      "valid_until": "2030-08-09T14:10:00.000Z",
       "note": "",
       "updated_by": "waltermanoel17@gmail.com",
       "version": 1
     }
   ],
-  "updated_at": "2026-07-10T14:10:22.382461+00:00"
+  "updated_at": "2026-07-10T14:10:39.021386+00:00"
 }
